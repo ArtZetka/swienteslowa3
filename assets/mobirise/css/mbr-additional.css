@@ -520,9 +520,6 @@ h6,
 #msg-box3-p p {
   color: #000;
 }
-#gallery4-q .mbr-gallery-item > div > span {
-  text-align: center;
-}
 #testimonials3-s .mbr-section-title {
   color: #efefef;
 }
@@ -534,4 +531,10 @@ h6,
 }
 #testimonials3-s .card-footer > div {
   color: #efefef;
+}
+#gallery4-q .mbr-gallery-item > div > span {
+  text-align: center;
+}
+#form1-t .form-control-label {
+  color: #232323;
 }

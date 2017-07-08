@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 29,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -687,74 +687,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Zapisz się</a>"
         },
         {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
-                "caption": "Czyń, co chcesz, rozdawaj łaski jak chcesz, komu chcesz i kiedy chcesz.<br><br>(Dz 31)<br>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
-                "caption": "Dla ciebie błogosławię krajowi całemu – i uczynił duży znak krzyża ręką nad Ojczyzna naszą. Radość wielka napełniła duszę moją widząc dobroć Boga.<br><br>(Dz 39)<br>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
-                "caption": "Jezus tylko wie jak ciężko i trudno spełniać obowiązki, kiedy dusza jest w stanie udręk wewnętrznych, siły fizyczne są mniejsze, a umysł przyćmiony.<br>(Dz 70)<br>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
-                "caption": "Jezus tylko wie jak ciężko i trudno spełniać obowiązki, kiedy dusza jest w stanie udręk wewnętrznych, siły fizyczne są mniejsze, a umysł przyćmiony.<br><br>(Dz 70)<br>",
-                "active": true
-              }
-            ],
-            "spacing": "1",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#efefef",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-q",
-          "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
@@ -839,6 +771,131 @@
           },
           "title": "Z Dzienniczka siostry Faustyny",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
+                "caption": "Czyń, co chcesz, rozdawaj łaski jak chcesz, komu chcesz i kiedy chcesz.<br>(Dz 31)<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
+                "caption": "Dla ciebie błogosławię krajowi całemu – i uczynił duży znak krzyża ręką nad Ojczyzna naszą. Radość wielka napełniła duszę moją widząc dobroć Boga.<br>(Dz 39)<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
+                "caption": "Jezus tylko wie jak ciężko i trudno spełniać obowiązki, kiedy dusza jest w stanie udręk wewnętrznych, siły fizyczne są mniejsze, a umysł przyćmiony.<br>(Dz 70)<br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1122-800x448.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
+                "caption": "Jezus tylko wie jak ciężko i trudno spełniać obowiązki, kiedy dusza jest w stanie udręk wewnętrznych, siły fizyczne są mniejsze, a umysł przyćmiony.<br>(Dz 70)<br>",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": true,
+            "filter": false,
+            "bgColor": "#efefef",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-q",
+          "articleLayout": false,
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-t",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Zapisz się już dziś",
+          "subtitle": "<br>Codzienny SMS z krótkim fragment z dzienniczka siostry Faustyny pozwoli Ci lepiej poznać i zrozumieć serce Naszego Pana.  Krótka, ale codzienna myśl - niezależnie od miejsca, w którym się znajdujemy.<br>Całkowity koszt usługi to tylko 9 zł + VAT&nbsp;",
+          "form": {
+            "action": "mleczkozuzanna@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy .Usługa została pomyślnie uruchomiona."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Imię"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Email"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Dodatkowe uwagi- poproś wujka oi usunięcie tego pola "
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Dalej</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         }
       ]
     }
